@@ -1,0 +1,185 @@
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fce3fe;
+  height: 100vh;
+ 
+}
+
+.signup-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin-top: 60px;
+}
+
+.signup-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin-top: 60px;
+}
+
+.signup-container h1 {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 24px;
+}
+
+.signup-fields input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  box-sizing: border-box; /* Prevents padding from increasing the width */
+}
+
+.agree {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.agree input[type='checkbox'] {
+  margin-right: 10px;
+}
+
+.agree p {
+  font-size: 14px;
+  color: #666;
+}
+
+.signup-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 29px;
+  cursor: pointer;
+}
+
+.signup-container button:hover {
+  background-color: red;
+}
+
+.signup-container p {
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+.signup-container p a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.signup-container span {
+  color: red;
+  cursor: pointer;
+}
+
+.signup-container span:hover{
+  color: rebeccapurple;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fce3fe;
+  height: 100vh;
+ 
+}
+
+.login-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin-top: 60px;
+}
+
+.login-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin-top: 60px;
+}
+
+.login-container h1 {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 24px;
+}
+
+.login-fields input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  box-sizing: border-box; 
+}
+
+.agree {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.agree input[type='checkbox'] {
+  margin-right: 10px;
+}
+
+.agree p {
+  font-size: 14px;
+  color: #666;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 29px;
+  cursor: pointer;
+}
+
+.login-container button:hover {
+  background-color: red;
+}
+
+.login-container p {
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+.login-container p a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.login-container span {
+  color: red;
+  cursor: pointer;
+}
+
+.login-container span:hover{
+  color: rebeccapurple;
+}
