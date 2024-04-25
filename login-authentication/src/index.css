@@ -141,11 +141,11 @@
   margin-bottom: 20px;
 }
 
-.agree input[type='checkbox'] {
+.remember-me input[type='checkbox'] {
   margin-right: 10px;
 }
 
-.agree p {
+.remember-me p {
   font-size: 14px;
   color: #666;
 }
